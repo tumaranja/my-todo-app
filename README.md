@@ -1,4 +1,4 @@
-# To-do app
+# My To-Do List
 
 Built using vanilla JavaScript, based on the [Practical JavaScript](https://watchandcode.com/p/practical-javascript) course.
 
